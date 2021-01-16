@@ -1,5 +1,0 @@
-mkdir yandex-praktikum-projects
-# создали папку yandex-praktikum-projects в текущей директории cd yandex-praktikum-projects
-# перешли в созданную папку yandex-praktikum-projects
-git init
-# инициализировали git в папке yandex-praktikum-projects
